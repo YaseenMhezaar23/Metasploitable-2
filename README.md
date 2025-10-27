@@ -156,5 +156,3 @@ This is intentionally simplified for learning purposes. Real-world engagements r
 
 ---
 
-*If you want, I can convert this to a ******`README.md`****** file in your repo format, add badges (e.g., ******`linux`******, ******`vulnerable`******), or include screenshots and commands output snapshots. Just tell me what you'd like next.*
-
